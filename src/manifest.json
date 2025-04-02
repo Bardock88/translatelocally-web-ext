@@ -66,5 +66,5 @@
 		"assets/fonts/FlowRounded-Regular.woff2"
 	],
 	"description": "TranslateLocally for Firefox is a webextension that enables client side in-page translations for web browsers. It is a stand-alone extension, but can integrate with TranslateLocally for custom models and even better performance.",
-	"homepage_url": "https://github.com/jelmervdl/translatelocally-webext"
+	"homepage_url": "https://github.com/jelmervdl/translatelocally-web-ext"
 }
